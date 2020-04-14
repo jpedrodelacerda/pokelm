@@ -93,3 +93,7 @@ tags
 .vim
 
 # End of https://www.gitignore.io/api/elm,vim,code,emacs
+
+# npm
+# Dependency directories
+node_modules/
