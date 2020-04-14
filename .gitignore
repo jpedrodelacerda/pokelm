@@ -14,6 +14,8 @@
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+# elm compiled code
+app.js
 
 ### Emacs ###
 # -*- mode: gitignore; -*-

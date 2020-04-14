@@ -1,4 +1,4 @@
-module Pokedex exposing (main)
+module Main exposing (main)
 
 import Browser
 import Element exposing (Attribute, Color, Element, alignRight, alignTop, centerX, column, el, fill, fillPortion, height, padding, row, spacing, text, width)
