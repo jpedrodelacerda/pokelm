@@ -205,7 +205,7 @@ viewPokeInfo pokemon =
 
 
 baseUrl =
-    "http://pokeapi.co/api/v2/pokemon/"
+    "https://pokeapi.co/api/v2/pokemon/"
 
 
 fetchPokemon : String -> Cmd Msg
