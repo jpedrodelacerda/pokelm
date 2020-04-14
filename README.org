@@ -2,4 +2,31 @@
 
 A simple Pokédex built with Elm.
 
-** References: [[https://pokeapi.co/][PokeApi.co]]
+** About the language
+
+Elm is a purely functional language that compiles to JavaScript.
+The language was created in 2012 by Evan Czaplicki and it advertises "no runtime exceptions".
+
+
+** Getting started 
+
+This project was a suggestion from a [[https://github.com/KalilCazes][friend of mine]]. I'll try to link as much as possible the materials that helped me do this project.
+I hope that this code will be useful for someone.
+
+** Useful links
+
+*** API used:
+- [[https://pokeapi.co/][PokeApi.co]]
+
+***  References:
+- [[https://guide.elm-lang.org]["The Elm Guide" by Evan Czaplicki]]
+- [[https://www.manning.com/books/elm-in-action]["Elm in Action" by Richard Feldman]]
+- [[https://frontendmasters.com/courses/intro-elm/]["Introduction to Elm v2" by Richard Feldman]]
+- [[https://frontendmasters.com/courses/advanced-elm/]["Advanced Elm" by Richard Feldman]]
+- [[https://pragprog.com/book/jfelm/programming-elm]["Programming Elm" by Jeremy Fairbank]]
+
+*** Other interesting links:
+- [[https://www.youtube.com/watch?v=kuOCx0QeQ5c]["Developer Happiness on the Front End with Elm" by Kevin Yank]] 
+- [[https://github.com/mdgriffith/elm-ui][elm-ui: What if you nevere had to write CSS again?]]
+- [[https://korban.net/posts/elm/2019-11-17-elm-ui-introduction/][Article: "elm-ui: Forget CSS and enjoy creating UIs in pure Elm"]]
+- [[https://www.youtube.com/watch?v=RFrKffrKCeU]["I used Elm in production and it cost me my job" by Annaia Berry]]
