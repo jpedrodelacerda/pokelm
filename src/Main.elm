@@ -70,7 +70,7 @@ update msg model =
             ( { model
                 | status = Loading
               }
-            , fetchPokemon model.searchBar
+            , fetchPokemon (String.toLower model.searchBar)
             )
 
         FetchRandomPokemon id ->
