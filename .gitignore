@@ -16,6 +16,10 @@ elm-stuff
 repl-temp-*
 # elm compiled code
 app.js
+elm.js
+node_modules/
+package.json
+package-lock.json
 
 ### Emacs ###
 # -*- mode: gitignore; -*-
